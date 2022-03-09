@@ -1,0 +1,36 @@
+{
+  "name": "devileye",
+  "version": "1.0.0",
+  "description": "by pourya",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirporia/DevilesEye.git"
+  },
+  "keywords": [
+    "DevilsEye_mobin"
+  ],
+  "author": "Amirhossein Pourya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirporia/DevilesEye/issues"
+  },
+  "homepage": "https://github.com/amirporia/DevilesEye#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/preset-stage-0": "^7.8.3",
+    "@material-ui/core": "^4.12.3",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
